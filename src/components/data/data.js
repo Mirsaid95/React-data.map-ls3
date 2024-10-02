@@ -23,7 +23,7 @@ export const data = [
         img: img1,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr 16 – 21",
+        date: "Apr 16 – 2024",
         price: 388,
         rate: 5.0
     },
@@ -33,7 +33,7 @@ export const data = [
         img: img2,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Jun 5 – 10",
+        date: "Jun 5 – 2024",
         price: 343,
         rate: 4.93
     },
@@ -43,7 +43,7 @@ export const data = [
         img: img3,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr 30 – May 5",
+        date: "Apr 30 – 2024",
         price: 388,
         rate: 5.0
     },
@@ -53,7 +53,7 @@ export const data = [
         img: img4,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr 4 – 9",
+        date: "Apr 4 – 2024",
         price: 326,
         rate: 4.72
     },
@@ -63,7 +63,7 @@ export const data = [
         img: img5,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 4 – 9",
+        date: "Mar 4 – 2024",
         price: 349,
         rate: 5.0
     },
@@ -73,7 +73,7 @@ export const data = [
         img: img6,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 5 – 10",
+        date: "Mar 5 – 2024",
         price: 255,
         rate: 4.82
     },
@@ -83,7 +83,7 @@ export const data = [
         img: img7,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 5 – 10",
+        date: "Mar 5 – 2024",
         price: 595,
         rate: 4.96
     },
@@ -93,7 +93,7 @@ export const data = [
         img: img8,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 19 – 24",
+        date: "Mar 19 – 2024",
         price: 170,
         rate: 4.89
     },
@@ -103,7 +103,7 @@ export const data = [
         img: img9,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 18 – 23",
+        date: "Mar 18 – 2024",
         price: 229,
         rate: 4.94
     },
@@ -113,7 +113,7 @@ export const data = [
         img: img10,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr 21 – 26",
+        date: "Apr 21 – 2024",
         price: 199,
         rate: 4.93
     },
@@ -123,7 +123,7 @@ export const data = [
         img: img11,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 3 – 8",
+        date: "Mar 3 – 2024",
         price: 850,
         rate: 4.85
     },
@@ -133,7 +133,7 @@ export const data = [
         img: img12,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Mar 7 – 12",
+        date: "Mar 7 – 2024",
         price: 388,
         rate: 5.0
     },
@@ -143,7 +143,7 @@ export const data = [
         img: img13,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr-may-2024",
+        date: "Apr 7 - 2024",
         price: 388,
         rate: 5.0
     },
@@ -153,7 +153,7 @@ export const data = [
         img: img14,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr-may-2024",
+        date: "Apr 20 - 2024",
         price: 388,
         rate: 5.0
     },
@@ -163,7 +163,7 @@ export const data = [
         img: img15,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr-may-2024",
+        date: "Apr 19 - 2024",
         price: 388,
         rate: 5.0
     },
@@ -173,7 +173,7 @@ export const data = [
         img: img16,
         title: "Knoxville, Tennessee",
         name: "Mountain and lake views",
-        date: "Apr-may-2024",
+        date: "Apr 22 - 2024",
         price: 388,
         rate: 5.0
     }
